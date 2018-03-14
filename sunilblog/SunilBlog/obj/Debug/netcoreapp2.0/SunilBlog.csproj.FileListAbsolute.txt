@@ -1,0 +1,11 @@
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\bin\Debug\netcoreapp2.0\SunilBlog.deps.json
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\bin\Debug\netcoreapp2.0\SunilBlog.runtimeconfig.json
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\bin\Debug\netcoreapp2.0\SunilBlog.runtimeconfig.dev.json
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\bin\Debug\netcoreapp2.0\SunilBlog.dll
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\obj\Debug\netcoreapp2.0\SunilBlog.csprojResolveAssemblyReference.cache
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\obj\Debug\netcoreapp2.0\SunilBlog.csproj.CoreCompileInputs.cache
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\obj\Debug\netcoreapp2.0\SunilBlog.AssemblyInfoInputs.cache
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\obj\Debug\netcoreapp2.0\SunilBlog.AssemblyInfo.cs
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\bin\Debug\netcoreapp2.0\SunilBlog.pdb
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\obj\Debug\netcoreapp2.0\SunilBlog.dll
+C:\sunilprojects\githubrepo\SunilBlog\SunilBlog\obj\Debug\netcoreapp2.0\SunilBlog.pdb
